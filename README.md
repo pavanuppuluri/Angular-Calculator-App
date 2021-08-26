@@ -13,7 +13,7 @@ Run **ng serve**
 
 Now Calculator App should be accessible at http://localhost:4200
 
-Please reach out to me @pavanuppu2016@gmail.com (or) @pavanu.techtalks@gmail.com for any questions
+Please reach out to me @pavanuppu2016@gmail.com / @pavanu.techtalks@gmail.com for any questions
 
 Happy Coding!!!
 
